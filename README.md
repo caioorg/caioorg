@@ -33,6 +33,10 @@ My name's Caio and I'm front-end developer.
   
   ##
  
-<div>  
+<div> 
+ 
   ![Snake animation](https://github.com/caioorg/caioorg/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
+
+  
